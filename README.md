@@ -1,4 +1,4 @@
-# flutter_time_note
+# flutter_timer_note
 
 A Flutter note app wtih timestamp.
 
